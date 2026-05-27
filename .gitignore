@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Notion config with real database IDs
+notion_minions/config/notion_config.json
