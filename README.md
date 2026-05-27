@@ -2,6 +2,8 @@
 
 A Python toolkit for the Notion REST API plus a tiny "minion" framework for self-logging scheduled jobs.
 
+![Minion Runners — Minions database and auto-generated log entries](docs/minion-runners-overview.png)
+
 ## Why
 
 Two pain points this solves:
